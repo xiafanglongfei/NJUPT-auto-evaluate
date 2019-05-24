@@ -7,6 +7,7 @@ var t = self.setInterval(autoEvaluate, 1000)
 function autoEvaluate() {
     if(j == n) {
         window.clearInterval(t)
+        // 取消下面这行代码的注释，那么脚本在完成所有页面的评价之后，会自动帮你点击提交按钮
         // $('iframeautoheight').contentDocument.getElementById("Button2").click()
     }
     for (i = 1; i < selects.length; i++) {
