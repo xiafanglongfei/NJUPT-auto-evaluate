@@ -38,4 +38,8 @@ $('iframeautoheight').contentDocument.getElementById("Button2").click()
 - QQ 1197393094
 - 邮箱 [119730394@qq.com](mailto:1197393094@qq.com)
 
+## 致谢
+感谢天奇大佬（@professorZTQ）发现的bug，并及时告知与我
+[![](https://avatars1.githubusercontent.com/u/50069922?s=400&v=4)](https://github.com/professorZTQ)
+
 ## 如果你喜欢本项目，欢迎star、提issue、fork、PR
