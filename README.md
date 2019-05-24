@@ -43,4 +43,4 @@ $('iframeautoheight').contentDocument.getElementById("Button2").click()
 
 <a href="https://github.com/professorZTQ"><img src="https://avatars1.githubusercontent.com/u/50069922?s=400&v=4" width="80"/><a>
 
-## 如果你喜欢本项目，欢迎star、提issue、fork、PR
+## 你喜欢本项目，欢迎star、提issue、fork、PR
