@@ -37,7 +37,7 @@ $('iframeautoheight').contentDocument.getElementById("Button2").click()
 
 ## 联系方式
 如果你有任何疑问，欢迎随时联系我：
-- 邮箱 [119730394@qq.com](mailto:1197393094@qq.com)
+- 邮箱 [1197393094@qq.com](mailto:1197393094@qq.com)
 
 ## 致谢
 - 感谢天奇大佬（[@professorZTQ](https://github.com/professorZTQ)）发现的bug，并及时告知与我
