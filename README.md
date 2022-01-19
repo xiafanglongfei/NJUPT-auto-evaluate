@@ -1,5 +1,10 @@
 # NJUPT-auto-evaluate
 
+![](https://img.shields.io/github/issues/xiafanglongfei/NJUPT-auto-evaluate)
+![](https://img.shields.io/github/forks/xiafanglongfei/NJUPT-auto-evaluate)
+![](https://img.shields.io/github/stars/xiafanglongfei/NJUPT-auto-evaluate)
+![](https://img.shields.io/github/license/xiafanglongfei/NJUPT-auto-evaluate)
+
 ## 介绍
 南邮每学期都有一个本科生学生评教的活动，分为两项——“教师满意度调查”和“教学评价”，每项评价的页面数与你本学期的课程数相同，每个页面有 10 个左右的评价项。评价页面屏蔽了 tab 键，每个选项都得用鼠标慢慢选，这样的设定令人极其之恶心，正常完成一次这样的评价的体验极其之差。
 
